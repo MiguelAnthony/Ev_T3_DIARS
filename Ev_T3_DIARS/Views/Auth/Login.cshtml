@@ -1,0 +1,27 @@
+﻿<div class="row">
+    <div class="col-6">
+        <form action="/auth/login" enctype="multipart/form-data" method="post">
+
+            <span>@Html.ValidationMessage("Login")</span>
+
+            <div class="form-group">
+                <label>Usuario</label>
+            </div>
+            <div class="form-group">
+                <input type="text" name="username" placeholder="Usuario" />
+            </div>
+
+            <div class="form-group">
+                <label>Contraseña</label>
+            </div>
+            <div class="form-group">
+                <input type="password" name="password" placeholder="Contraseña" />
+            </div>
+
+            <button class="btn btn-primary">Login</button>
+        </form>
+    </div>
+    <div class="col-12 forgot">
+        <a href="/auth/registrar"><i class=""></i> Registrarse </a>
+    </div>
+</div>
