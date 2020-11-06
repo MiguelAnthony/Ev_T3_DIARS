@@ -76,3 +76,6 @@ C:\Users\Malca Solis Luis\source\repos\Ev_T3_DIARS\Ev_T3_DIARS\obj\Debug\netcore
 C:\Users\Malca Solis Luis\source\repos\Ev_T3_DIARS\Ev_T3_DIARS\obj\Debug\netcoreapp3.1\Ev_T3_DIARS.dll
 C:\Users\Malca Solis Luis\source\repos\Ev_T3_DIARS\Ev_T3_DIARS\obj\Debug\netcoreapp3.1\Ev_T3_DIARS.pdb
 C:\Users\Malca Solis Luis\source\repos\Ev_T3_DIARS\Ev_T3_DIARS\obj\Debug\netcoreapp3.1\Ev_T3_DIARS.genruntimeconfig.cache
+C:\Users\Malca Solis Luis\source\repos\Ev_T3_DIARS\Ev_T3_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Ejercicio\Index.cshtml.g.cs
+C:\Users\Malca Solis Luis\source\repos\Ev_T3_DIARS\Ev_T3_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Ejercicio\Rutina.cshtml.g.cs
+C:\Users\Malca Solis Luis\source\repos\Ev_T3_DIARS\Ev_T3_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Ejercicio\Registro_Rutina.cshtml.g.cs

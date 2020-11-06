@@ -1,0 +1,23 @@
+﻿@{ List<Detalle_Rutina> detalle = ((List<Detalle_Rutina>)Model); }
+
+
+<h1>Lista de Amigos</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre de Ejercicio </th>
+            <th>Video de Ejercicio </th>
+            <th>Tiempo de Ejercicio </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in detalle)
+        {
+<tr>
+    <td>@item.Ejercicio.Nombre_Ejercicio</td>
+    <td>@item.Ejercicio.Link_Video</td>
+    <td>@item.Tiempo</td>
+</tr>}
+    </tbody>
+</table>
